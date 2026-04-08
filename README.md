@@ -84,7 +84,8 @@ The telecom company is facing **high customer churn (~3.6M revenue loss)**, impa
 ## 🛠 Tech Stack
 
 - 📊 Excel   
-- 📈 Power BI  
+- 📈 Power BI
+- MYSQL
 
 ---
 
