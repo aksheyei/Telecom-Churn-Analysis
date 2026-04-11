@@ -77,9 +77,7 @@ The telecom company is facing **high customer churn (~3.6M revenue loss)**, impa
 
 ## 📊 Dashboard Preview
 
-![Dashboard](
-
-)
+![Dashboard](Overview.png)
 
 ---
 
